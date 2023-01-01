@@ -3,10 +3,10 @@
 	"version": "1.0.0",
 	"main": "index.js",
 	"scripts": {
-		"start": "node index.js"
+		"start": "cross-env NODE_ENV=development node index.js"
 	},
 	"license": "MIT",
 	"dependencies": {
-		"owl-factory": "^0.0.4"
+		"owl-factory": "^0.0.6"
 	}
 }

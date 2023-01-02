@@ -7,6 +7,6 @@
 	},
 	"license": "MIT",
 	"dependencies": {
-		"owl-factory": "^0.0.6"
+		"owl-factory": "^0.0.7"
 	}
 }
